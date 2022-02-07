@@ -1,2 +1,4 @@
 extruct
 selenium
+requests
+click
