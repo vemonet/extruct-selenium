@@ -1,4 +1,4 @@
-# 🧃 Extract metadata from HTML rendered by JS
+# 🧃 Extract metadata from client JS websites
 
 Today a lot of websites are using JavaScript to render HTML pages in the users browser (aka. the client), for example websites built with the React framework. This requires to execute the JavaScript sent by the server before extracting metadata from the HTML.
 
